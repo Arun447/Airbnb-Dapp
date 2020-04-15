@@ -28,7 +28,7 @@ npm run start
 
 ## Full Solution
 
-[Complete Decentralized Airbnb](https://github.com/maticnetwork/ethindia-workshop/tree/complete-dapp) | or `git checkout complete-dapp`
+[Complete Decentralized Airbnb](https://github.com/maticnetwork/Airbnb-India/tree/complete-dapp) | or `git checkout complete-dapp`
 # Airbnb-Dapp
 # Airbnb-Dapp
 # Airbnb-Dapp
